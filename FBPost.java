@@ -10,7 +10,7 @@ public class FBPost {
 	public static  void  main(String args[])
 	{
 		int counter=0;
-		String AcessToken="EAAEM35RtAt0BAFoYk3RjMGJbYFu9dwcflKyCZC3BkiPYBRsYT3lCBorHmwqclIiGfeP63r3VZCoYnJub0qIqXDNZAVEy1afuUsQib5SBffJ3kOC46SAUZC9MNrWXpg5cJvaMrJfisMHh7ijSZANZCKimtFWuNZB1dGWHhYzxvc0owZDZD";
+		String AcessToken="(generated from developers.facebook.com)";
 		
 		@SuppressWarnings("deprecation")
 		FacebookClient fbclient=new DefaultFacebookClient(AcessToken);
